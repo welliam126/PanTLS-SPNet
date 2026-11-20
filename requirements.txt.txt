@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Medical image processing
+nibabel>=4.0.0
+torchio>=0.18.0
+medpy>=0.4.0
+
+# Data science & ML
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Utilities
+tqdm>=4.65.0
+openpyxl>=3.1.0
+einops>=0.6.0
+
+# Segmentation (nnUNet v2)
+nnunetv2>=2.0.0
